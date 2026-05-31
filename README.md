@@ -102,19 +102,21 @@ java -cp ".;lib/mysql-connector-j-9.7.0.jar" HotelReservationSystem
 
 ## Main Menu
 
-![Main Menu](images/main-menu.png)
+![Main Menu](<img width="880" height="429" alt="Screenshot 2026-05-31 192725" src="https://github.com/user-attachments/assets/7cff1862-b7a1-4896-b99f-98f34a8a0481" />
+)
 
 ---
 
 ## Database Structure
 
-![Database Structure](images/database-schema.png)
+![Database Structure](<img width="1015" height="428" alt="Screenshot 2026-05-31 191428" src="https://github.com/user-attachments/assets/d4f33266-9aa5-4902-bba3-3c885f4a41bd" />)
 
 ---
 
 ## Reservation Records
 
-![Reservation Records](images/reservation-data.png)
+![Reservation Records](<img width="974" height="526" alt="Screenshot 2026-05-31 191334" src="https://github.com/user-attachments/assets/9759645e-d4a8-41fa-932e-96b6371631fb" />
+)
 
 ---
 
