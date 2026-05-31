@@ -102,21 +102,24 @@ java -cp ".;lib/mysql-connector-j-9.7.0.jar" HotelReservationSystem
 
 ## Main Menu
 
-![Main Menu](<img width="880" height="429" alt="Screenshot 2026-05-31 192725" src="https://github.com/user-attachments/assets/7cff1862-b7a1-4896-b99f-98f34a8a0481" />
-)
+Main Menu
+<img width="880" height="429" alt="Screenshot 2026-05-31 192725" src="https://github.com/user-attachments/assets/a8544b24-ecd1-420f-b203-06eda2d02e4a" />
 
 ---
 
 ## Database Structure
 
-![Database Structure](<img width="1015" height="428" alt="Screenshot 2026-05-31 191428" src="https://github.com/user-attachments/assets/d4f33266-9aa5-4902-bba3-3c885f4a41bd" />)
+Database Structure
+<img width="974" height="526" alt="Screenshot 2026-05-31 191334" src="https://github.com/user-attachments/assets/aa4126be-5355-4db0-94ab-c915f0f5d92e" />
+
 
 ---
 
 ## Reservation Records
 
-![Reservation Records](<img width="974" height="526" alt="Screenshot 2026-05-31 191334" src="https://github.com/user-attachments/assets/9759645e-d4a8-41fa-932e-96b6371631fb" />
-)
+Reservation Records
+<img width="1015" height="428" alt="Screenshot 2026-05-31 191428" src="https://github.com/user-attachments/assets/471a868a-204f-493a-b886-2f34c1137e26" />
+
 
 ---
 
